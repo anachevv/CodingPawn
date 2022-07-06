@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋I'm Anatoli</h1>
-<h3 align="center">I am interested in back-end development, Database, Docker</h3>
+<h3 align="center">I'm interested in back-end development, Database, Docker</h3>
 
 - 🌱 I’m currently learning **Python**, **Docker**
 
