@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋I'm Anatoli</h1>
 <h3 align="center">I'm interested in back-end development, Database, DevOps</h3>
 
-- 🌱 I’m currently learning **Python**, **C++**
+- 🌱 I’m currently learning **Python**, **C++**, **Docker**
 
 - 💬 Ask me about **Python**
 
