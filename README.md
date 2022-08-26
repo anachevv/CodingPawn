@@ -7,9 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/profile.php?id=100014652319380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100014652319380" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18422727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/Brave_Jack" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="https://www.codewars.com/packs/assets/logo.61192cf7.svg" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100014652319380" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18422727" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/Brave_Jack" target="blank"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anatoli-nachev-bb7692239/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
