@@ -22,7 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anachevv&layout=compact" alt="anachevv" /></p>
 
 <!--GitHub Stats-->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anachevv&show_icons=true&locale=en" alt="anachevv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-anachevv.vercel.app/api?username=anachevv&show_icons=true&locale=en" alt="anachevv" /></p>
 
 <!--Contributions, Current Streak & Longest Streak-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anachevv&" alt="anachevv" /></p>
