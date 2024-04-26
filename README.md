@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋I'm Anatoli</h1>
 <h3 align="center">Aspiring software developer with a robust foundation in Python, HTML & CSS, complemented by a burgeoning understanding of JavaScript and SQL fundamentals.</h3>
 
+<br>
 - 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **Python**
