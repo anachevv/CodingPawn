@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS**, **React**
 
 - 💬 Ask me about **Python**
 
