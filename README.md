@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋I'm Anatoli</h1>
-<h3 align="center">Aspiring software developer with a robust foundation in Python, HTML & CSS, complemented by a burgeoning understanding of JavaScript and SQL fundamentals.</h3>
+<h3 align="center">Aspiring frontend developer with a robust foundation in HTML & CSS, JavaScript and SQL. Actively looking for an intern or junior frontend developer position.</h3>
 
 <br>
 
