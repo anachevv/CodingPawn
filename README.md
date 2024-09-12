@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋I'm Anatoli</h1>
-<h3 align="center">Aspiring frontend developer with a robust foundation in HTML & CSS, JavaScript and SQL. Actively looking for an intern or junior frontend developer position.</h3>
+<h3 align="center">Aspiring frontend developer with a robust foundation in HTML/CSS and JavaScript (Node.js, Express.js, React) Actively looking for an intern or junior frontend developer position.</h3>
 
 <br>
 
-- 🌱 I’m currently learning **NodeJS**, **React**
-
-- 💬 Ask me about **Python**
+- 🌱 I’m currently learning **React**
 
 <!--Connect with me-->
 <h3 align="left">Connect with me:</h3>
