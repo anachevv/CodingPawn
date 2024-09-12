@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋I'm Anatoli</h1>
-<h3 align="center">Aspiring frontend developer with a robust foundation in HTML/CSS and JavaScript (Node.js, Express.js, React) Actively looking for an intern or junior frontend developer position.</h3>
+<h3 align="center">Aspiring frontend developer with a robust foundation in HTML/CSS and JavaScript (Node.js, Express.js, React). Actively looking for an intern or junior frontend developer position.</h3>
 
 <br>
 
