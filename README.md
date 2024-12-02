@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **React**
+<!-- - 🌱 I’m currently learning **React** -->
 
 <!--Connect with me-->
 <h3 align="left">Connect with me:</h3>
